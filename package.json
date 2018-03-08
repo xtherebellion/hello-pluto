@@ -1,0 +1,22 @@
+{
+  "name": "hello-pluto",
+  "version": "1.0.0",
+  "description": "Say hello to pluto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtherebellion/hello-pluto.git"
+  },
+  "keywords": [
+    "pluto"
+  ],
+  "author": "Jon Laberge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xtherebellion/hello-pluto/issues"
+  },
+  "homepage": "https://github.com/xtherebellion/hello-pluto#readme"
+}
