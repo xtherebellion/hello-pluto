@@ -1,6 +1,6 @@
 {
   "name": "hello-pluto-jlaberge",
-  "version": "1.0.1",
+  "version": "1.1.0-beta-0",
   "description": "Say hello to pluto",
   "main": "index.js",
   "scripts": {
