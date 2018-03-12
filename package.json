@@ -1,6 +1,6 @@
 {
-  "name": "hello-pluto",
-  "version": "1.0.0",
+  "name": "hello-pluto-jlaberge",
+  "version": "1.0.1",
   "description": "Say hello to pluto",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xtherebellion/hello-pluto/issues"
   },
-  "homepage": "https://github.com/xtherebellion/hello-pluto#readme"
+  "homepage": "https://github.com/xtherebellion/hello-pluto#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
 }
